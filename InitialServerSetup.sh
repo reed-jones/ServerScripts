@@ -1,4 +1,6 @@
 #!/bin/bash
+# A long way from everything, but enough to get started
+# originally wrote for Ramnode VPS Ubuntu 16.04
 
 # packages to be installed
 packagesVar="fail2ban ufw nginx htop"
